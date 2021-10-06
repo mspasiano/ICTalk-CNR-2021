@@ -26,7 +26,5 @@
   - Docker compose ui
     - https://github.com/francescou/docker-compose-ui
     - http://docker-compose-ui.test.si.cnr.it 
-- Keycloak SSO
-  - http://telefonia-mobile-sso.test.si.cnr.it 
 - Developers Italia
   - https://developers.italia.it/it/pa/cnr
