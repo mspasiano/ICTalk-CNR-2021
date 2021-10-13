@@ -39,3 +39,12 @@ GitHub https://github.com/mspasiano
 - Docker compose ui
     - https://github.com/francescou/docker-compose-ui
     - http://docker-compose-ui.test.si.cnr.it 
+
+<!--s-->
+# Developers Italia
+## Il punto di riferimento per il software della Pubblica Amministrazione
+- https://developers.italia.it <!-- .element: class="fragment" data-fragment-index="0" -->
+- https://developers.italia.it/it/pa/cnr <!-- .element: class="fragment" data-fragment-index="1" -->
+
+<!--s-->
+# Grazie dell'attenzione 
