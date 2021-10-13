@@ -42,9 +42,12 @@ GitHub https://github.com/mspasiano
 
 <!--s-->
 # Developers Italia
-## Il punto di riferimento per il software della Pubblica Amministrazione
+
+_Il punto di riferimento per il software della Pubblica Amministrazione_
+
 - https://developers.italia.it <!-- .element: class="fragment" data-fragment-index="0" -->
 - https://developers.italia.it/it/pa/cnr <!-- .element: class="fragment" data-fragment-index="1" -->
 
 <!--s-->
 # Grazie dell'attenzione 
+## BAZINGA
