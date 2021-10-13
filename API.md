@@ -1,6 +1,5 @@
 <!--s-->
-# API
-## Application programming interface
+# API (Application programming interface)
 * SIGLA <!-- .element: class="fragment" data-fragment-index="0" -->
     - http://sigla-main.test.si.cnr.it/swagger
     - http://sigla-main.test.si.cnr.it/SIGLA/info.json
@@ -11,14 +10,14 @@
 * Missioni <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <!--s-->
-# GitHub
+## GitHub
 - *SIGLA* https://github.com/consiglionazionaledellericerche/sigla-main
 - *Selezioni online* https://github.com/consiglionazionaledellericerche/cool-jconon
 - *EPAS* https://github.com/consiglionazionaledellericerche/epas
 - *Scrivania Digitale* https://github.com/consiglionazionaledellericerche/sprint-flows
 
 <!--s-->
-# CI/CD
+## CI/CD
 
 - Gitlab ci <!-- .element: class="fragment" data-fragment-index="0" -->
   - https://github.com/consiglionazionaledellericerche/cool-jconon/blob/master/.gitlab-ci.yml
