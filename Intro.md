@@ -3,4 +3,5 @@
 
 ## 13 ottobre 2021
 
-Marco Spasiano (UICT)
+Marco Spasiano marco.spasiano@cnr.it (UICT)
+GitHub https://github.com/mspasiano
