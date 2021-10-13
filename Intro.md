@@ -49,5 +49,5 @@ _Il punto di riferimento per il software della Pubblica Amministrazione_
 - https://developers.italia.it/it/pa/cnr <!-- .element: class="fragment" data-fragment-index="1" -->
 
 <!--s-->
-# Grazie dell'attenzione 
-## BAZINGA
+# THE END 
+## _BAZINGA_ <!-- .element: class="fragment" data-fragment-index="0" -->
