@@ -14,4 +14,4 @@ revealOptions:
 
 # reveal-md & github-pages
 
-{{Readme.md}}
+{{README.md}}
