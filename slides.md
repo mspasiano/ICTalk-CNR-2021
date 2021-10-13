@@ -6,7 +6,7 @@ theme: solarized
 highlight-theme: monokai
 css: custom.css
 revealOptions:
-  controls: false
+  controls: true
   slideNumber: false
   transition: 'slide'
   backgroundTransition: 'fade'
