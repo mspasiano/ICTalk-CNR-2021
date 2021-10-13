@@ -20,10 +20,11 @@ GitHub https://github.com/mspasiano
 
 <!--s-->
 ## GitHub
-- [*SIGLA*](https://github.com/consiglionazionaledellericerche/sigla-main)
-- [*Selezioni online*](https://github.com/consiglionazionaledellericerche/cool-jconon)
-- [*EPAS*](https://github.com/consiglionazionaledellericerche/epas)
-- [*Scrivania Digitale*](https://github.com/consiglionazionaledellericerche/sprint-flows)
+- [*Consiglio Nazionale delle Ricerche*](https://github.com/consiglionazionaledellericerche)<!-- .element: class="fragment" data-fragment-index="0" -->
+- [*SIGLA*](https://github.com/consiglionazionaledellericerche/sigla-main)<!-- .element: class="fragment" data-fragment-index="1" -->
+- [*Selezioni online*](https://github.com/consiglionazionaledellericerche/cool-jconon)<!-- .element: class="fragment" data-fragment-index="2" -->
+- [*EPAS*](https://github.com/consiglionazionaledellericerche/epas)<!-- .element: class="fragment" data-fragment-index="3" -->
+- [*Scrivania Digitale*](https://github.com/consiglionazionaledellericerche/sprint-flows)<!-- .element: class="fragment" data-fragment-index="4" -->
 
 <!--s-->
 ## CI

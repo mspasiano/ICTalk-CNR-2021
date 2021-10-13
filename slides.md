@@ -9,7 +9,6 @@ revealOptions:
   controls: true
   slideNumber: false
   transition: 'slide'
-  previewLinks: false
   backgroundTransition: 'fade'
 ---
 
