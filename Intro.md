@@ -20,17 +20,17 @@ GitHub https://github.com/mspasiano
 
 <!--s-->
 ## GitHub
-* [*Consiglio Nazionale delle Ricerche*](https://github.com/consiglionazionaledellericerche)<!-- .element: class="fragment" data-fragment-index="0" -->
-* [*SIGLA*](https://github.com/consiglionazionaledellericerche/sigla-main)<!-- .element: class="fragment" data-fragment-index="1" -->
-* [*Selezioni online*](https://github.com/consiglionazionaledellericerche/cool-jconon)<!-- .element: class="fragment" data-fragment-index="2" -->
-* [*EPAS*](https://github.com/consiglionazionaledellericerche/epas)<!-- .element: class="fragment" data-fragment-index="3" -->
-* [*Scrivania Digitale*](https://github.com/consiglionazionaledellericerche/sprint-flows)<!-- .element: class="fragment" data-fragment-index="4" -->
+* [*Consiglio Nazionale delle Ricerche*](https://github.com/consiglionazionaledellericerche) <!-- .element: class="fragment" data-fragment-index="0" -->
+* [*SIGLA*](https://github.com/consiglionazionaledellericerche/sigla-main) <!-- .element: class="fragment" data-fragment-index="1" -->
+* [*Selezioni online*](https://github.com/consiglionazionaledellericerche/cool-jconon) <!-- .element: class="fragment" data-fragment-index="2" -->
+* [*EPAS*](https://github.com/consiglionazionaledellericerche/epas) <!-- .element: class="fragment" data-fragment-index="3" -->
+* [*Scrivania Digitale*](https://github.com/consiglionazionaledellericerche/sprint-flows) <!-- .element: class="fragment" data-fragment-index="4" -->
 
 <!--s-->
 ## CI (Continuous Integration)
 
-* [*Gitlab ci*](https://github.com/consiglionazionaledellericerche/cool-jconon/blob/master/.gitlab-ci.yml)<!-- .element: class="fragment" data-fragment-index="0" -->
-* [*GitHub Action*](https://github.com/consiglionazionaledellericerche/cool-jconon/actions)<!-- .element: class="fragment" data-fragment-index="1" -->
+* [*Gitlab ci*](https://github.com/consiglionazionaledellericerche/cool-jconon/blob/master/.gitlab-ci.yml) <!-- .element: class="fragment" data-fragment-index="0" -->
+* [*GitHub Action*](https://github.com/consiglionazionaledellericerche/cool-jconon/actions) <!-- .element: class="fragment" data-fragment-index="1" -->
 * [*Travis CI*](https://github.com/consiglionazionaledellericerche/cool-jconon/blob/master/.travis.yml) <!-- .element: class="fragment" data-fragment-index="2" -->
 * [*Circle CI*](https://github.com/consiglionazionaledellericerche/cool-jconon/blob/master/.circleci/config.yml) <!-- .element: class="fragment" data-fragment-index="3" -->
 
